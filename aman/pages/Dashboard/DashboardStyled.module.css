@@ -1,0 +1,15 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 2rem 3rem;
+}
+.user_list_wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 60vh;
+  overflow-x: auto;
+  overflow-y: hidden;
+  width: 40vw;
+}
